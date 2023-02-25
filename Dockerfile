@@ -1,7 +1,7 @@
 # parameters
 ARG REPO_NAME="my-first-ros-program"
 ARG DESCRIPTION="box-recognition-and-following"
-ARG MAINTAINER="Ryan-Holt (<ryanben1998@gmail.com>)"
+ARG MAINTAINER="RbHoLt1 (ryanben1998@gmail.com)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
