@@ -14,7 +14,7 @@ dt-launchfile-init
 
 # launching app
 dt-exec rosrun my_packages my_publisher_node.py
-
+dt-exec rosrun my_packages my_subscriber_node.py
 
 # ----------------------------------------------------------------------------
 # YOUR CODE ABOVE THIS LINE
