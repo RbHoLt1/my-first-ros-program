@@ -5,7 +5,7 @@
   This package is a test for RH3.
   </description>
   <maintainer email="ryanben1998@gmail.com">YOUR_FULL_NAME</maintainer>
-  <lisence>none</license>
+  <license>none</license>
   
   <buildtool_depend>catkin</buildtool_depend>
 </package>
